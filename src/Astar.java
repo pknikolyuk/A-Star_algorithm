@@ -2,11 +2,9 @@ import Modes.Edge;
 import Modes.Node;
 
 import java.util.*;
-//програма оновлена 10 жовтня 2023 року
-//рисунок до програми E/PICTURES/A-star MAIN PROGRAM
+
 public class Astar {
-// наступний метод видає спектр дійсних чисел в діапазоні 0-500
-// із програми For A-star-3
+
     public static  double R(){
         return  (500*(new Random()).nextDouble());
     }
